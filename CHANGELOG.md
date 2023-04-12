@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/Stacked-Org/core/compare/v1.3.0...v1.3.1) (2023-04-12)
+
+
+### Bug Fixes
+
+* Sets maintainState to true for all routes ([6aed12c](https://github.com/Stacked-Org/core/commit/6aed12ca7b1909ec7a3188506942ac78134b327a))
+
 # [1.3.0](https://github.com/Stacked-Org/core/compare/v1.2.4...v1.3.0) (2023-03-15)
 
 
