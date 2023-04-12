@@ -236,7 +236,7 @@ class MaterialRoute<T> extends StackedRoute<T> {
     required Type page,
     bool initial = false,
     bool fullscreenDialog = false,
-    bool maintainState = false,
+    bool maintainState = true,
     bool fullMatch = false,
     String? name,
     List<Type>? guards,
@@ -268,7 +268,7 @@ class CupertinoRoute<T> extends StackedRoute<T> {
   const CupertinoRoute({
     bool initial = false,
     bool fullscreenDialog = false,
-    bool maintainState = false,
+    bool maintainState = true,
     String? path,
     this.title,
     String? name,
