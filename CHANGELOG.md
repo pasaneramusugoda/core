@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/Stacked-Org/core/compare/v1.3.1...v1.3.2) (2023-04-25)
+
+
+### Bug Fixes
+
+* argument missmatch with get_it ([1adc69a](https://github.com/Stacked-Org/core/commit/1adc69a6ff4110a165f0c68d730b62c1d6bb7f7a))
+
 ## [1.3.1](https://github.com/Stacked-Org/core/compare/v1.3.0...v1.3.1) (2023-04-12)
 
 
